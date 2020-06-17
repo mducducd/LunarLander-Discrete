@@ -13,10 +13,9 @@ The environment returns the state vector, where the first two comprises coordina
 # Getting Started
 
 In order to train the model or inference the computed weights, the following need to be installed:
-
-pytorch
-pybox2d
-gym
+* pytorch
+* pybox2d
+* gym
 
 # Instructions
 
